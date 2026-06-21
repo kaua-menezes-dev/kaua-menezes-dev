@@ -93,22 +93,6 @@ Sistema de gerenciamento de clínicas desenvolvido em Java.
 
 ---
 
-## 🎓 EduFlow
-
-Sistema de gestão acadêmica desenvolvido para praticar regras de negócio e modelagem de banco de dados.
-
-### Conceitos aplicados
-
-- Modelagem relacional
-- PostgreSQL
-- Validações de domínio
-- Matrículas
-- Controle de capacidade
-- Especialidades
-- Relacionamentos
-
----
-
 ## 🍔 Restaurant Order Management
 
 Sistema para gerenciamento de pedidos e produtos.
