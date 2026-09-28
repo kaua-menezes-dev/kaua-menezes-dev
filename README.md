@@ -4,67 +4,169 @@
 
 ### Java Backend Developer
 
-Estudante de Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul.
+Estudante de **Análise e Desenvolvimento de Sistemas** pela Universidade Cruzeiro do Sul.
 
-Apaixonado por desenvolvimento back-end, arquitetura de software e construção de aplicações escaláveis utilizando Java e seu ecossistema.
+Focado no desenvolvimento de aplicações backend utilizando **Java e Spring Boot**,  
+aplicando APIs REST, segurança, banco de dados e boas práticas de desenvolvimento.
 
-<p>
-  <a href="www.linkedin.com/in/kauamenezes">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/kaua-menezes-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/kauamenezes/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/kaua-menezes-dev">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-</div>
+<br><br>
 
 ---
 
-<div align="center">
-  
 ## 🚀 Sobre Mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
-☕ Focado em Desenvolvimento Back-end com Java
+☕ Focado em **Desenvolvimento Back-end com Java**
 
-🗄️ Experiência prática com PostgreSQL e JDBC
+🌱 Desenvolvendo aplicações com **Spring Boot e APIs REST**
 
-🌱 Estudando Spring Boot, APIs REST e Arquitetura de Software
+🔐 Estudando e aplicando **Spring Security e JWT**
 
-📚 Construindo projetos para consolidar fundamentos e boas práticas de desenvolvimento
+🗄️ Experiência prática com **PostgreSQL, SQL, JDBC, JPA e Hibernate**
 
-🇺🇸 Aprimorando meu inglês para oportunidades internacionais
+🏗️ Aplicando **arquitetura em camadas, DTOs, validações e regras de negócio**
 
-🎯 Objetivo: atuar como Desenvolvedor Back-end Java
+🧠 Estudando **Clean Code, SOLID e Engenharia de Software**
 
-</div>
+💻 Construindo projetos para consolidar conhecimentos e boas práticas
+
+🎯 Objetivo: atuar profissionalmente como **Desenvolvedor Back-end Java**
+
+<br>
 
 ---
 
-<div align="center">
-  
 ## 💻 Tecnologias
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql,html,css,javascript,git,github,maven,idea,vscode" />
+<br>
 
-</div>
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+  width="48"
+  title="Java"
+/>
+&nbsp;&nbsp;
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+  width="48"
+  title="Spring Boot"
+/>
+&nbsp;&nbsp;
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"
+  width="48"
+  title="Hibernate"
+/>
+&nbsp;&nbsp;
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+  width="48"
+  title="PostgreSQL"
+/>
+&nbsp;&nbsp;
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"
+  width="48"
+  title="Maven"
+/>
+&nbsp;&nbsp;
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  width="48"
+  title="Git"
+/>
+&nbsp;&nbsp;
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+  width="48"
+  title="GitHub"
+/>
+&nbsp;&nbsp;
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+  width="48"
+  title="Postman"
+/>
+&nbsp;&nbsp;
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+  width="48"
+  title="IntelliJ IDEA"
+/>
+&nbsp;&nbsp;
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+  width="48"
+  title="VS Code"
+/>
+
+<br><br>
+
+### Backend
+
+`Java` • `Spring Boot` • `Spring Web` • `Spring Data JPA`  
+`Spring Security` • `JWT` • `JPA` • `Hibernate` • `JDBC`
+
+### Banco de Dados
+
+`PostgreSQL` • `SQL` • `Flyway`
+
+### Boas Práticas
+
+`APIs REST` • `DTOs` • `Bean Validation` • `Exception Handling`  
+`Arquitetura em Camadas` • `Clean Code` • `SOLID`
+
+### Ferramentas
+
+`Git` • `GitHub` • `Maven` • `Postman` • `IntelliJ IDEA`
+
+<br>
 
 ---
-  
-<div align="center">
-  
+
 ## 📊 GitHub Stats
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaua-menezes-dev&theme=tokyo-night&hide_border=true" />
+<br>
 
-</div>
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=kaua-menezes-dev&show_icons=true&theme=github_dark&hide_border=true"
+/>
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-menezes-dev&layout=compact&theme=github_dark&hide_border=true"
+/>
+
+<br><br>
 
 ---
 
-<div align="center">
+## 📫 Contato
 
-### 🚀 Transformando aprendizado em projetos e projetos em experiência.
+<a href="SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:SEU_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
