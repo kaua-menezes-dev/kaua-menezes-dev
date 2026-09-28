@@ -44,80 +44,24 @@ aplicando APIs REST, segurança, banco de dados e boas práticas de desenvolvime
 
 ---
 
-## 💻 Tecnologias
-
 <br>
 
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-  width="48"
-  title="Java"
-/>
-&nbsp;&nbsp;
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" title="Java" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" title="Spring Boot" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="50" title="Hibernate" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="50" title="Maven" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" title="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" title="GitHub" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" title="Postman" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50" title="IntelliJ IDEA" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" title="VS Code" />
+</p>
 
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-  width="48"
-  title="Spring Boot"
-/>
-&nbsp;&nbsp;
+---
 
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"
-  width="48"
-  title="Hibernate"
-/>
-&nbsp;&nbsp;
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-  width="48"
-  title="PostgreSQL"
-/>
-&nbsp;&nbsp;
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"
-  width="48"
-  title="Maven"
-/>
-&nbsp;&nbsp;
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-  width="48"
-  title="Git"
-/>
-&nbsp;&nbsp;
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-  width="48"
-  title="GitHub"
-/>
-&nbsp;&nbsp;
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
-  width="48"
-  title="Postman"
-/>
-&nbsp;&nbsp;
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
-  width="48"
-  title="IntelliJ IDEA"
-/>
-&nbsp;&nbsp;
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-  width="48"
-  title="VS Code"
-/>
-
-<br><br>
+<br>
 
 ### Backend
 
